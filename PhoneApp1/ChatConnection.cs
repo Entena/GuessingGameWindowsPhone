@@ -55,6 +55,9 @@ namespace PhoneApp1
         private static DataReader reader;
         private static DataWriter writer;
 
+
+        public static string yourAns = "";
+        public static string theirAns = "";
         public static string peer = "";
 
         const bool ANDROID = true;
